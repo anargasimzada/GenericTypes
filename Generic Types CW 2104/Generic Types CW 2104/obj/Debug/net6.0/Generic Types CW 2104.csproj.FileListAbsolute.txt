@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\bin\Debug\net6.0\Generic Types CW 2104.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\bin\Debug\net6.0\Generic Types CW 2104.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\bin\Debug\net6.0\Generic Types CW 2104.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\bin\Debug\net6.0\Generic Types CW 2104.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\bin\Debug\net6.0\Generic Types CW 2104.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\Generic Types CW 2104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\Generic Types CW 2104.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\Generic Types CW 2104.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\Generic Types CW 2104.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\Generic Types CW 2104.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\refint\Generic Types CW 2104.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\Generic Types CW 2104.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\Generic Types CW 2104.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\Generic Types CW 2104\Generic Types CW 2104\obj\Debug\net6.0\ref\Generic Types CW 2104.dll

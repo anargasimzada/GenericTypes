@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\codeacademy tasks\\generic type hw 0421\\generic type hw 0421\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C2BFC-4526-4F3F-B5F6-913DEE257EA3}|Generic Type HW 0421\\Generic Type HW 0421.csproj|solutionrelative:generic type hw 0421\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Grass.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Models\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:06:55.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Models\\Meat.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Meat.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Models\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:06:44.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Wolf.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Models\\Wolf.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Wolf.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Models\\Wolf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:06:14.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\ZooCage.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Models\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\ZooCage.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Models\\ZooCage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:48:39.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Program.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Program.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:04:16.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Food.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:06:34.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Animal.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:06:01.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Elephant.cs",
+              "RelativeDocumentMoniker": "Generic Type HW 0421\\Models\\Elephant.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\\u0130\u015F masas\u0131\\CodeAcademy Tasks\\Generic Type HW 0421\\Generic Type HW 0421\\Models\\Elephant.cs",
+              "RelativeToolTip": "Generic Type HW 0421\\Models\\Elephant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:06:25.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
